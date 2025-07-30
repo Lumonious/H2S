@@ -1,0 +1,15 @@
+%chk=C:\Users\melih\Desktop\Gaussian\H2S\1Scan.chk
+# opt=modredundant hf/3-21g geom=connectivity
+
+H2S Energy
+
+0 1
+ S                  0.00000000   -0.00000000    0.08400670
+ H                  0.00000000    1.06980052   -0.67205356
+ H                 -0.00000000   -1.06980052   -0.67205356
+
+ 1 2 1.0 3 1.0
+ 2
+ 3
+
+

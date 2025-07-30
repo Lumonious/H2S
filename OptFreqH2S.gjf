@@ -1,0 +1,14 @@
+%chk=C:\Users\melih\Desktop\Gaussian\H2S\OptFreqH2S.chk
+# opt freq hf/3-21g geom=connectivity
+
+Title Card Required
+
+0 1
+ S                  2.04968950   -0.40372670    0.00000000
+ H                  3.35968950   -0.40372670    0.00000000
+ H                  1.61240251    0.83113365    0.00000000
+
+ 1 2 1.0 3 1.0
+ 2
+ 3
+

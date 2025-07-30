@@ -1,0 +1,14 @@
+%chk=C:\Users\melih\Desktop\Gaussian\H2S\EnergyH2S_0.chk
+# hf/3-21g geom=connectivity
+
+Title Card Required
+
+0 1
+ S                  5.49689456   -1.39751551    0.00000000
+ H                  6.80689456   -1.39751551    0.00000000
+ H                  5.05960757   -0.16265515    0.00000000
+
+ 1 2 1.0 3 1.0
+ 2
+ 3
+
